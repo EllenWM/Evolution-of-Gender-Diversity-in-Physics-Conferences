@@ -5,7 +5,7 @@
 
 "API.ipynb": Using Semantic Scholar to get information about researchers
 
-"SpeakerInformation.ipynb": Extracting information about the researchers from the files from the API. 
+"ResearcherInformation.ipynb": Extracting information about the researchers from the files from the API. 
 
 "GenderEstimation.ipynb": Estimation gender of the researchers
 
