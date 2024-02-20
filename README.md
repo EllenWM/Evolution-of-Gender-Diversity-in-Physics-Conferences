@@ -3,11 +3,13 @@
 
 "Speakers_Thesis.ipynb": Parsing webscraped files 
 
+"Cleaning.ipynb": Preparing data for API, and selecting data only from 2005 and onwards
+
 "API.ipynb": Using Semantic Scholar to get information about researchers
 
-"ResearcherInformation.ipynb": Extracting information about the researchers from the files from the API. 
+"ResearcherInformation_UsingFirstResult.ipynb": Extracting information about the researchers from the files from the API. Using only first result from API(instead of all of them)
 
-"GenderEstimation.ipynb": Estimation gender of the researchers
+"GenderEstimation_thesis.ipynb": Estimation gender of the researchers
 
 "Divisions.ipynb": Assigning division
 
