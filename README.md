@@ -1,7 +1,7 @@
 # Evolution-of-Gender-Diversity-in-Physics-Conferences
 
 
-"Speakers_Thesis.ipynb": Parsing webscraped files 
+"Speakers.ipynb": Parsing webscraped files 
 
 "Cleaning.ipynb": Preparing data for API, and selecting data only from 2005 and onwards
 
