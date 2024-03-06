@@ -7,7 +7,7 @@
 
 "API.ipynb": Using Semantic Scholar to get information about researchers
 
-"ResearcherInformation_UsingFirstResult.ipynb": Extracting information about the researchers from the files from the API. Using only first result from API(instead of all of them)
+"ResearcherInformation.ipynb": Extracting information about the researchers from the files from the API. Using only first result from API(instead of all of them)
 
 "ErrorResearchers.ipynb": Trying to solve problems with researchers the API could not find/didn't find any data on. 
 
