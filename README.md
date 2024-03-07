@@ -13,6 +13,6 @@
 
 "GenderEstimation_thesis.ipynb": Estimation gender of the researchers
 
-"Divisions.ipynb": Assigning division
+"SponsoringUnits.ipynb": Assigning sponsoring units
 
 "Plots.ipynb": plotting data
