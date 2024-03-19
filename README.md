@@ -15,6 +15,10 @@
 
 "SponsoringUnits.ipynb": Assigning sponsoring units
 
+"finalCleaning.ipynb": Final cleaning of data before plotting it.
+
 "Plots.ipynb": plotting data
 
-"PermutationTest.ipynb": 
+"PermutationTest.ipynb": Doing permutation test
+
+"SimilarResearchers.ipynb": Performing KNN to find similar researchers
