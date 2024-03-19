@@ -15,8 +15,6 @@
 
 "SponsoringUnits.ipynb": Assigning sponsoring units
 
-"finalCleaning.ipynb": Final cleaning of data before plotting it.
-
 "Plots.ipynb": plotting data
 
 "PermutationTest.ipynb": Doing permutation test
