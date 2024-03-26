@@ -11,7 +11,7 @@
 
 "ErrorResearchers.ipynb": Trying to solve problems with researchers the API could not find/didn't find any data on. 
 
-"GenderEstimation_thesis.ipynb": Estimation gender of the researchers
+"GenderEstimation.ipynb": Estimation gender of the researchers
 
 "SponsoringUnits.ipynb": Assigning sponsoring units
 
