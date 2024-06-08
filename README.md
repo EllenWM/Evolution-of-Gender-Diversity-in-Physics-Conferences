@@ -20,3 +20,6 @@
 "PermutationTest.ipynb": Doing permutation test
 
 "SimilarResearchers.ipynb": Performing KNN to find similar researchers
+
+"interventionImpact.ipynb": Finding effect of intervention
+
