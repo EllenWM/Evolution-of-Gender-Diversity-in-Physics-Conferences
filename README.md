@@ -23,6 +23,6 @@
 
 "interventionImpact.ipynb": Finding effect of intervention
 
-The code can be rexecuted by downloading the "Files" folder here: https://drive.google.com/drive/folders/1ceyaxfRID94vFdN32ra1hJ8R0yHfiMMJ?usp=sharing.
+The code can be executed by downloading the "Files" folder here: https://drive.google.com/drive/folders/1ceyaxfRID94vFdN32ra1hJ8R0yHfiMMJ?usp=sharing.
 
 There was too much data to make available for "Speakers.ipynb". All other files can be executed. 
